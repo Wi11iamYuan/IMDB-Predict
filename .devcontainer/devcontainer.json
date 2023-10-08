@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "IMDB Predict",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
